@@ -1,0 +1,2562 @@
+[{
+  "_id": {
+    "$oid": "5fe0eab055ff8a393079f7bf"
+  },
+  "Name": "Can't Say I Love You",
+  "Genre": "ballad",
+  "Poster": "1608575664696-KOREA_Ballad_2AM_Cant_Say_I_Love_You_1.jpg",
+  "Aud": "1608575664701-KOREA_Ballad_2AM_Cant_Say_I_Love_You.mp3",
+  "Area": "kpop",
+  "Time": "3:18",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0eb5f55ff8a393079f7c0"
+  },
+  "Name": "Like A Fool",
+  "Genre": "ballad",
+  "Poster": "1608575839088-KOREA_Ballad_2AM_Like_A_Fool_1.jpg",
+  "Aud": "1608575839098-KOREA_Ballad_2AM_Like_A_Fool.mp3",
+  "Area": "kpop",
+  "Time": "3:14",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0eba355ff8a393079f7c1"
+  },
+  "Name": "Like Crazy",
+  "Genre": "ballad",
+  "Poster": "1608575907515-KOREA_Ballad_2AM_Like_Crazy_1.jpg",
+  "Aud": "1608575907518-KOREA_Ballad_2AM_Like_Crazy.mp3",
+  "Area": "kpop",
+  "Time": "2:58",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ec4355ff8a393079f7c2"
+  },
+  "Name": "Never Let You Away",
+  "Genre": "ballad",
+  "Poster": "1608576067048-KOREA_Ballad_2AM_Never_Let_You_Go_1.jpg",
+  "Aud": "1608576067066-KOREA_Ballad_2AM_Never_Let_You_Go.mp3",
+  "Area": "kpop",
+  "Time": "3:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ed7a55ff8a393079f7c3"
+  },
+  "Name": "Hope Not",
+  "Genre": "ballad",
+  "Poster": "1608576377902-KOREA_Ballad_BlackPink_Hope_Not_1.jpg",
+  "Aud": "1608576377917-KOREA_Ballad_BlackPink_Hope_Not.mp3",
+  "Area": "kpop",
+  "Time": "3:11",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ee0655ff8a393079f7c4"
+  },
+  "Name": "Epiphany",
+  "Genre": "ballad",
+  "Poster": "1608576518239-KOREA_Ballad_BTS_Epiphany_1.jpg",
+  "Aud": "1608576518263-KOREA_Ballad_BTS_Epiphany.mp3",
+  "Area": "kpop",
+  "Time": "4:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ee4855ff8a393079f7c5"
+  },
+  "Name": "Euphoria",
+  "Genre": "ballad",
+  "Poster": "1608576584107-KOREA_Ballad_BTS_Euphoria_1.jpg",
+  "Aud": "1608576584131-KOREA_Ballad_BTS_Euphoria.mp3",
+  "Area": "kpop",
+  "Time": "3:22",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ee7955ff8a393079f7c6"
+  },
+  "Name": "Make It Right",
+  "Genre": "ballad",
+  "Poster": "1608576633411-KOREA_Ballad_BTS_Make_It_Right_1.jpg",
+  "Aud": "1608576633416-KOREA_Ballad_BTS_Make_It_Right.mp3",
+  "Area": "kpop",
+  "Time": "3:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0eead55ff8a393079f7c7"
+  },
+  "Name": "The Truth Untold",
+  "Genre": "ballad",
+  "Poster": "1608576685748-KOREA_Ballad_BTS_The_Truth_Untold_1.jpg",
+  "Aud": "1608576685771-KOREA_Ballad_BTS_The_Truth_Untold.mp3",
+  "Area": "kpop",
+  "Time": "4:02",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0eef455ff8a393079f7c8"
+  },
+  "Name": "All About You",
+  "Genre": "ballad",
+  "Poster": "1608576755847-KOREA_Ballad_Taeyeon_All_About_You_1.jpg",
+  "Aud": "1608576755854-KOREA_Ballad_Taeyeon_All_About_You.mp3",
+  "Area": "kpop",
+  "Time": "3:29",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ef3f55ff8a393079f7c9"
+  },
+  "Name": "Fine",
+  "Genre": "ballad",
+  "Poster": "1608576831284-KOREA_Ballad_Taeyeon_Fine_1.jpg",
+  "Aud": "1608576831308-KOREA_Ballad_Taeyeon_Fine.mp3",
+  "Area": "kpop",
+  "Time": "3:29",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ef6f55ff8a393079f7ca"
+  },
+  "Name": "Love In Color",
+  "Genre": "ballad",
+  "Poster": "1608576878899-KOREA_Ballad_Taeyeon_Love_In_Color_1.jpg",
+  "Aud": "1608576878902-KOREA_Ballad_Taeyeon_Love_In_Color.mp3",
+  "Area": "kpop",
+  "Time": "2:56",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0efaa55ff8a393079f7cb"
+  },
+  "Name": "When We Were Young",
+  "Genre": "ballad",
+  "Poster": "1608576938003-USUK_Ballad_Adele_When_We_Were_Young_1.jpg",
+  "Aud": "1608576938077-USUK_Ballad_Adele_When_We_Were_Young.mp3",
+  "Area": "usuk",
+  "Time": "4:50",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f00655ff8a393079f7cc"
+  },
+  "Name": "And You Don't Remember",
+  "Genre": "ballad",
+  "Poster": "1608577030433-USUK_Ballad_MariahCarey_And_You_Dont_Remember_1.jpg",
+  "Aud": "1608577030451-USUK_Ballad_MariahCarey_And_You_Dont_Remember.mp3",
+  "Area": "usuk",
+  "Time": "4:22",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f04b55ff8a393079f7cd"
+  },
+  "Name": "I Don't Wanna Cry",
+  "Genre": "ballad",
+  "Poster": "1608577099280-USUK_Ballad_MariahCarey_I_Dont_Wanna_Cry_1.jpg",
+  "Aud": "1608577099297-USUK_Ballad_MariahCarey_I_Dont_Wanna_Cry.mp3",
+  "Area": "usuk",
+  "Time": "4:50",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f09955ff8a393079f7ce"
+  },
+  "Name": "Love Takes Time",
+  "Genre": "ballad",
+  "Poster": "1608577176835-USUK_Ballad_MariahCarey_Love_Takes_Time_1.jpg",
+  "Aud": "1608577176862-USUK_Ballad_MariahCarey_Love_Takes_Time.mp3",
+  "Area": "usuk",
+  "Time": "3:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f0c255ff8a393079f7cf"
+  },
+  "Name": "So Blessed",
+  "Genre": "ballad",
+  "Poster": "1608577218134-USUK_Ballad_MariahCarey_So_Blessed_1.jpg",
+  "Aud": "1608577218151-USUK_Ballad_MariahCarey_So_Blessed.mp3",
+  "Area": "usuk",
+  "Time": "4:08",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f34a55ff8a393079f7d0"
+  },
+  "Name": "Vision Of Love",
+  "Genre": "ballad",
+  "Poster": "1608577865900-USUK_Ballad_MariahCarey_Vision_Of_Love_1.jpg",
+  "Aud": "1608577865931-USUK_Ballad_MariahCarey_Vision_Of_Love.mp3",
+  "Area": "usuk",
+  "Time": "3:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f40155ff8a393079f7d1"
+  },
+  "Name": "Crowded Room",
+  "Genre": "ballad",
+  "Poster": "1608578049780-USUK_Ballad_SelenaGomez_6lack_Crowded_Room_1.jpg",
+  "Aud": "1608578049784-USUK_Ballad_SelenaGomez_6lack_Crowded_Room.mp3",
+  "Area": "usuk",
+  "Time": "3:06",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f55655ff8a393079f7d2"
+  },
+  "Name": "Good For You",
+  "Genre": "ballad",
+  "Poster": "1608578389872-USUK_Ballad_SelenaGomez_Good_For_You_1.jpg",
+  "Aud": "1608578389874-USUK_Ballad_SelenaGomez_Good_For_You.mp3",
+  "Area": "usuk",
+  "Time": "3:14",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f5f355ff8a393079f7d3"
+  },
+  "Name": "Love You Like A Love Song",
+  "Genre": "ballad",
+  "Poster": "1608578546895-USUK_Ballad_SelenaGomez_Love_You_Like_A_Love_Song_1.jpg",
+  "Aud": "1608578546921-USUK_Ballad_SelenaGomez_Love_You_Like_A_Love_Song.mp3",
+  "Area": "usuk",
+  "Time": "3:10",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f65c55ff8a393079f7d4"
+  },
+  "Name": "The Heart Wants What It Wants",
+  "Genre": "ballad",
+  "Poster": "1608578652515-USUK_Ballad_SelenaGomez_The_Heart_Wants_What_It_Wants_1.jpg",
+  "Aud": "1608578652516-USUK_Ballad_SelenaGomez_The_Heart_Wants_What_It_Wants.mp3",
+  "Area": "usuk",
+  "Time": "3:47",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f6d955ff8a393079f7d5"
+  },
+  "Name": "Co Khi Nao Roi Xa",
+  "Genre": "ballad",
+  "Poster": "1608578777489-VN_Ballad_BíchPhương_Có_Khi_Nào_Rời_Xa_1.jpg",
+  "Aud": "1608578777503-VN_Ballad_BíchPhương_Có_Khi_Nào_Rời_Xa.mp3",
+  "Area": "vpop",
+  "Time": "6:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f71755ff8a393079f7d6"
+  },
+  "Name": "Chi La Em Giau Di",
+  "Genre": "ballad",
+  "Poster": "1608578838768-VN_Ballad_BíchPhương_Chỉ_Là_Em_Giấu_Đi_1.jpg",
+  "Aud": "1608578838783-VN_Ballad_BíchPhương_Chỉ_Là_Em_Giấu_Đi.mp3",
+  "Area": "vpop",
+  "Time": "4:29",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f75a55ff8a393079f7d7"
+  },
+  "Name": "Ki Uc Ngu Quen",
+  "Genre": "ballad",
+  "Poster": "1608578906411-VN_Ballad_BíchPhương_Kí_Ức_Ngủ_Quên_1.jpg",
+  "Aud": "1608578906413-VN_Ballad_BíchPhương_Kí_Ức_Ngủ_Quên.mp3",
+  "Area": "vpop",
+  "Time": "4:26",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f7b055ff8a393079f7d8"
+  },
+  "Name": "Cat Em Vao Tam tu",
+  "Genre": "ballad",
+  "Poster": "1608578992651-VN_Ballad_Isaac_Cat_Em_Vao_Tam_Tu_1.jpg",
+  "Aud": "1608578992653-VN_Ballad_Isaac_Cat_Em_Vao_Tam_Tu.mp3",
+  "Area": "vpop",
+  "Time": "4:28",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f7d455ff8a393079f7d9"
+  },
+  "Name": "Loi Dinh Menh",
+  "Genre": "ballad",
+  "Poster": "1608579028625-VN_Ballad_Isaac_Loi_Dinh_Menh_1.jpg",
+  "Aud": "1608579028627-VN_Ballad_Isaac_Loi_Dinh_Menh.mp3",
+  "Area": "vpop",
+  "Time": "5:03",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f81355ff8a393079f7da"
+  },
+  "Name": "Dung Yeu Nua Em Met Roi",
+  "Genre": "ballad",
+  "Poster": "1608579091546-VN_Ballad_Min_Dung_Yeu_Nua_Em_Met_Roi_1.jpg",
+  "Aud": "1608579091550-VN_Ballad_Min_Dung_Yeu_Nua_Em_Met_Roi.mp3",
+  "Area": "vpop",
+  "Time": "4:41",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f84d55ff8a393079f7db"
+  },
+  "Name": "Buc Tranh Tu Nuoc Mat",
+  "Genre": "ballad",
+  "Poster": "1608579148794-VN_Ballad_MrSiro_Bức_Tranh_Từ_Nước_Mắt_1.jpg",
+  "Aud": "1608579148796-VN_Ballad_MrSiro_Bức_Tranh_Từ_Nước_Mắt.mp3",
+  "Area": "vpop",
+  "Time": "4:35",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f8a755ff8a393079f7dc"
+  },
+  "Name": "Chi Co Mot Nguoi De Yeu Tren The Gian",
+  "Genre": "ballad",
+  "Poster": "1608579238875-VN_Ballad_MrSiro_Chi_Co_Mot_Nguoi_De_Yeu_Tren_The_Gian_1.jpg",
+  "Aud": "1608579238878-VN_Ballad_MrSiro_Chi_Co_Mot_Nguoi_De_Yeu_Tren_The_Gian.mp3",
+  "Area": "vpop",
+  "Time": "4:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f8d255ff8a393079f7dd"
+  },
+  "Name": "Dung Lo Anh Doi Ma",
+  "Genre": "ballad",
+  "Poster": "1608579282326-VN_Ballad_MrSiro_Dung_Lo_Anh_Doi_Ma.jpg",
+  "Aud": "1608579282345-VN_Ballad_MrSiro_Dung_Lo_Anh_Doi_Ma.mp3",
+  "Area": "vpop",
+  "Time": "4:31",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f92f55ff8a393079f7de"
+  },
+  "Name": "Duoi Nhung Con Mua",
+  "Genre": "ballad",
+  "Poster": "1608579375250-VN_Ballad_MrSiro_Dưới_Những_Cơn_Mưa_1.jpg",
+  "Aud": "1608579375275-VN_Ballad_MrSiro_Dưới_Những_Cơn_Mưa.mp3",
+  "Area": "vpop",
+  "Time": "5:12",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f96955ff8a393079f7df"
+  },
+  "Name": "Guong Mat La Lam",
+  "Genre": "ballad",
+  "Poster": "1608579432970-VN_Ballad_MrSiro_Guong_Mat_La_Lam_1.jpg",
+  "Aud": "1608579432973-VN_Ballad_MrSiro_Gương_Mặt_Lạ_Lẫm.mp3",
+  "Area": "vpop",
+  "Time": "5:41",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f99455ff8a393079f7e0"
+  },
+  "Name": "Marry Me",
+  "Genre": "ballad",
+  "Poster": "1608579476556-VN_Ballad_MrSiro_Marry_Me_1.jpg",
+  "Aud": "1608579476561-VN_Ballad_MrSiro_Marry_Me.mp3",
+  "Area": "vpop",
+  "Time": "4:24",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0f9b955ff8a393079f7e1"
+  },
+  "Name": "Pho Cam",
+  "Genre": "ballad",
+  "Poster": "1608579513217-VN_Ballad_MrSiro_Phố_Câm_1.jpg",
+  "Aud": "1608579513221-VN_Ballad_MrSiro_Pho_Cam.mp3",
+  "Area": "vpop",
+  "Time": "4:06",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0fa2c34017430f0b7ecf5"
+  },
+  "Name": "Vo Hinh Trong Tim Em",
+  "Genre": "ballad",
+  "Poster": "1608579627981-VN_Ballad_MrSiro_Vo_Hinh_Trong_Tim_Em_1.jpg",
+  "Aud": "1608579628000-VN_Ballad_MrSiro_Vô_Hình_Trong_Tim_Em.mp3",
+  "Area": "vpop",
+  "Time": "4:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0fa9234017430f0b7ecf6"
+  },
+  "Name": "Yeu Mot Nguoi Sao Buon Den The",
+  "Genre": "ballad",
+  "Poster": "1608579730360-VN_Ballad_NooPhuocThinh_Yeu_Mot_Nguoi_Sao_Buon_Den_The_1.jpg",
+  "Aud": "1608579730663-VN_Ballad_NooPhuocThinh_Yeu_Mot_Nguoi_Sao_Buon_Den_The.mp3",
+  "Area": "vpop",
+  "Time": "4:59",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0faf034017430f0b7ecf7"
+  },
+  "Name": "Chac Ai Do Se Ve",
+  "Genre": "ballad",
+  "Poster": "1608579824606-VN_Ballad_SonTungMTP_Chac_Ai_Do_Se_Ve_1.jpg",
+  "Aud": "1608579824623-VN_Ballad_SonTungMTP_Chac_Ai_Do_Se_Ve.mp3",
+  "Area": "vpop",
+  "Time": "4:34",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0fb1b34017430f0b7ecf8"
+  },
+  "Name": "Em Cua Ngay Hom Qua",
+  "Genre": "ballad",
+  "Poster": "1608579866975-VN_Ballad_SonTungMTP_Em_Cua_Ngay_Hom_Qua_1.jpg",
+  "Aud": "1608579866981-VN_Ballad_SonTungMTP_Em_Cua_Ngay_Hom_Qua.mp3",
+  "Area": "vpop",
+  "Time": "3:45",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0fbc134017430f0b7ecf9"
+  },
+  "Name": "Khong Sao Ma Em Day Roi",
+  "Genre": "ballad",
+  "Poster": "1608580033367-VN_Ballad_SuniHaLinh_LouHoang_Khong_Sao_Ma_Em_Day_Roi_1.jpg",
+  "Aud": "1608580033656-VN_Ballad_SuniHaLinh_LouHoang_Khong_Sao_Ma_Em_Day_Roi.mp3",
+  "Area": "vpop",
+  "Time": "4:27",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0fded34017430f0b7ecfa"
+  },
+  "Name": "Let's Shut Up And Dance",
+  "Genre": "edm",
+  "Poster": "1608580589255-CHINA_EDM_Lay_JasonDerulo_NCT127_Lets_Shut_Up_And_Dance_1.jpg",
+  "Aud": "1608580589539-CHINA_EDM_Lay_JasonDerulo_NCT127_Lets_Shut_Up_And_Dance.mp3",
+  "Area": "cpop",
+  "Time": "3:28",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ff6634017430f0b7ecfb"
+  },
+  "Name": "Boom",
+  "Genre": "edm",
+  "Poster": "1608580965728-CHINA_EDM_Lay_R3HAB_Boom_1.jpg",
+  "Aud": "1608580966010-CHINA_EDM_Lay_R3HAB_Boom.mp3",
+  "Area": "cpop",
+  "Time": "2:08",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ffad34017430f0b7ecfc"
+  },
+  "Name": "Zither Flow",
+  "Genre": "edm",
+  "Poster": "1608581037421-CHINA_EDM_RADI8_JuggShots_ReggieYang_Zither_Flow_1.jpg",
+  "Aud": "1608581037722-CHINA_EDM_RADI8_JuggShots_ReggieYang_Zither_Flow.mp3",
+  "Area": "cpop",
+  "Time": "4:12",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1002f34017430f0b7ecfd"
+  },
+  "Name": "Zither Wobble",
+  "Genre": "edm",
+  "Poster": "1608581166949-CHINA_EDM_RADI8_JuggShots_ReggieYang_Zither_Wobble_1.jpg",
+  "Aud": "1608581167237-CHINA_EDM_RADI8_JuggShots_ReggieYang_Zither_Wobble.mp3",
+  "Area": "cpop",
+  "Time": "4:24",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1006034017430f0b7ecfe"
+  },
+  "Name": "Zither Wobble 2",
+  "Genre": "edm",
+  "Poster": "1608581215803-CHINA_EDM_RADI8_JuggShots_ReggieYang_Zither_Wobble2_1.jpg",
+  "Aud": "1608581216071-CHINA_EDM_RADI8_JuggShots_ReggieYang_Zither_Wobble2.mp3",
+  "Area": "cpop",
+  "Time": "4:22",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1059b34017430f0b7ed00"
+  },
+  "Name": "China Show",
+  "Genre": "edm",
+  "Poster": "1608582554720-CHINA_EDM_Studio_China_Snow_1.jpg",
+  "Aud": "1608582555035-CHINA_EDM_Studio_China_Snow.mp3",
+  "Area": "cpop",
+  "Time": "4:28",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1061234017430f0b7ed01"
+  },
+  "Name": "Hoa Anh Dao",
+  "Genre": "edm",
+  "Poster": "1608582674444-CHINA_EDM_Studio_China_Hoa_Anh_Dao_1.jpg",
+  "Aud": "1608582674717-CHINA_EDM_Studio_Hoa_Anh_Dao.mp3",
+  "Area": "cpop",
+  "Time": "4:07",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1064934017430f0b7ed02"
+  },
+  "Name": "Kawaii China",
+  "Genre": "edm",
+  "Poster": "1608582729371-CHINA_EDM_Studio_Kawaii_China_1.jpg",
+  "Aud": "1608582729657-CHINA_EDM_Studio_Kawaii_China.mp3",
+  "Area": "cpop",
+  "Time": "3:07",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1069134017430f0b7ed03"
+  },
+  "Name": "Nghe Hong Thieu Nu Mong Hoi Truong An",
+  "Genre": "edm",
+  "Poster": "1608582800946-China_EDM_Studio_Nghe_Hong_Thieu_Nu_Mong_Hoi_Truong_An_1.jpg",
+  "Aud": "1608582801270-CHINA_EDM_Studio_Nghe_Hong_Thieu_Nu_Mong_Hoi_Truong_An.mp3",
+  "Area": "cpop",
+  "Time": "3:13",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1070434017430f0b7ed04"
+  },
+  "Name": "Kill This Love",
+  "Genre": "edm",
+  "Poster": "1608582915447-KOREA_EDM_BlackPink_Kill_This_Love_1.jpg",
+  "Aud": "1608582915450-KOREA_EDM_BlackPink_Kill_This_Love.mp3",
+  "Area": "kpop",
+  "Time": "3:45",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1074434017430f0b7ed05"
+  },
+  "Name": "Kill This Love 2",
+  "Genre": "edm",
+  "Poster": "1608582980093-KOREA_EDM_BlackPink_Kill_This_Love2_1.jpg",
+  "Aud": "1608582980112-KOREA_EDM_BlackPink_Kill_This_Love_2.mp3",
+  "Area": "kpop",
+  "Time": "3:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1077634017430f0b7ed06"
+  },
+  "Name": "Force",
+  "Genre": "edm",
+  "Poster": "1608583029883-USUK_EDM_AlanWalker_Force.jpg",
+  "Aud": "1608583029886-USUK_EDM_AlanWalker_Force.mp3",
+  "Area": "usuk",
+  "Time": "4:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe107b634017430f0b7ed07"
+  },
+  "Name": "Move Your Body",
+  "Genre": "edm",
+  "Poster": "1608583094493-USUK_EDM_AlanWalker_Sia_Move_Your_Body_1.jpg",
+  "Aud": "1608583094780-USUK_EDM_AlanWalker_Sia_Move_Your_Body.mp3",
+  "Area": "usuk",
+  "Time": "3:37",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe107e634017430f0b7ed08"
+  },
+  "Name": "Lost Control",
+  "Genre": "edm",
+  "Poster": "1608583141973-USUK_EDM_AlanWalker_Sorana_Lost_Control_1.jpg",
+  "Aud": "1608583142246-USUK_EDM_AlanWalker_Sorana_Lost_Control.mp3",
+  "Area": "usuk",
+  "Time": "3:42",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1081134017430f0b7ed09"
+  },
+  "Name": "Dark Side",
+  "Genre": "edm",
+  "Poster": "1608583184703-USUK_EDM_AlanWalker_TomieHarket_Darkside_1.jpg",
+  "Aud": "1608583184989-USUK_EDM_AlanWalker_TomieHarket_Darkside.mp3",
+  "Area": "usuk",
+  "Time": "3:31",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1087534017430f0b7ed0a"
+  },
+  "Name": "Telephone",
+  "Genre": "edm",
+  "Poster": "1608583285314-USUK_EDM_Beyonce_Telephone_Alphabeat_Extended_Remix_1.jpg",
+  "Aud": "1608583285593-USUK_EDM_Beyonce_Telephone_Alphabeat_Extended_Remix.mp3",
+  "Area": "usuk",
+  "Time": "6:41",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe108b134017430f0b7ed0b"
+  },
+  "Name": "Under Control",
+  "Genre": "edm",
+  "Poster": "1608583345228-USUK_EDM_CalvinHarris_Alesso_Under_Control_1.jpg",
+  "Aud": "1608583345508-USUK_EDM_CalvinHarris_Alesso_Under_Control.mp3",
+  "Area": "usuk",
+  "Time": "3:31",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe108fe34017430f0b7ed0c"
+  },
+  "Name": "I Need Your Love",
+  "Genre": "edm",
+  "Poster": "1608583422034-USUK_EDM_CalvinHarris_EllieGoulding_I_Need_Your_Love_1.jpg",
+  "Aud": "1608583422329-USUK_EDM_CalvinHarris_EllieGoulding_I_Need_Your_Love.mp3",
+  "Area": "usuk",
+  "Time": "3:50",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1093d34017430f0b7ed0d"
+  },
+  "Name": "Outside",
+  "Genre": "edm",
+  "Poster": "1608583485320-USUK_EDM_CalvinHarris_EllieGoulding_Outside_1.jpg",
+  "Aud": "1608583485603-USUK_EDM_CalvinHarris_EllieGoulding_Outside.mp3",
+  "Area": "usuk",
+  "Time": "3:47",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1099334017430f0b7ed0e"
+  },
+  "Name": "This Is What You Came For",
+  "Genre": "edm",
+  "Poster": "1608583571567-USUK_EDM_CalvinHarris_Rihanna_This_Is_What_You_Came_For_1.jpg",
+  "Aud": "1608583571586-USUK_EDM_CalvinHarris_Rihanna_This_Is_What_You_Came_For.mp3",
+  "Area": "usuk",
+  "Time": "3:42",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe109c134017430f0b7ed0f"
+  },
+  "Name": "Forever",
+  "Genre": "edm",
+  "Poster": "1608583617135-USUK_EDM_CalvinHarris_Skrillex_Avicii_Forever_1.jpg",
+  "Aud": "1608583617468-USUK_EDM_CalvinHarris_Skrillex_Avicii_Forever.mp3",
+  "Area": "usuk",
+  "Time": "4:29",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10a9934017430f0b7ed10"
+  },
+  "Name": "Cheri Cheri Lady",
+  "Genre": "edm",
+  "Poster": "1608583832955-VN_EDM_Isaac_Cheri_Cheri_Lady_Remix_1.jpg",
+  "Aud": "1608583832958-USUK_EDM_Isaac_Cheri_Cheri_Lady_Remix.mp3",
+  "Area": "vpop",
+  "Time": "4:33",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10b0634017430f0b7ed11"
+  },
+  "Name": "Prutataaa",
+  "Genre": "edm",
+  "Poster": "1608583942774-USUK_EDM_R3hab_Afrojack_Prutataaa_1.jpg",
+  "Aud": "1608583942778-USUK_EDM_R3hab_Afrojack_Prutataaa.mp3",
+  "Area": "usuk",
+  "Time": "2:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10b4834017430f0b7ed12"
+  },
+  "Name": "You'll Be Mine",
+  "Genre": "edm",
+  "Poster": "1608584007883-USUK_EDM_R3hab_HavanaBrown_Youll_Be_Mine_1.jpg",
+  "Aud": "1608584008165-USUK_EDM_R3hab_HavanaBrown_Youll_Be_Mine.mp3",
+  "Area": "usuk",
+  "Time": "4:10",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10b9134017430f0b7ed13"
+  },
+  "Name": "Revolution",
+  "Genre": "edm",
+  "Poster": "1608584080571-USUK_EDM_R3hab_Nervo_Revolution_Radio_Mix_1.jpg",
+  "Aud": "1608584080855-USUK_EDM_R3hab_Nervo_Revolution_Radio_Mix.mp3",
+  "Area": "usuk",
+  "Time": "3:24",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10c01a2b892162c476f9b"
+  },
+  "Name": "Sending My Love",
+  "Genre": "edm",
+  "Poster": "1608584193426-USUK_EDM_R3hab_Sending_My_Love_1.jpg",
+  "Aud": "1608584193430-USUK_EDM_R3hab_Sending_My_Love.mp3",
+  "Area": "usuk",
+  "Time": "4:47",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10c69a2b892162c476f9c"
+  },
+  "Name": "Angels",
+  "Genre": "edm",
+  "Poster": "1608584296693-USUK_EDM_Vicetone_Angels_1.jpg",
+  "Aud": "1608584297059-USUK_EDM_Vicetone_Angels.mp3",
+  "Area": "usuk",
+  "Time": "4:10",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10cc6a2b892162c476f9d"
+  },
+  "Name": "Harmony",
+  "Genre": "edm",
+  "Poster": "1608584389766-USUK_EDM_Vicetone_Harmony_1.jpg",
+  "Aud": "1608584389772-USUK_EDM_Vicetone_Harmony.mp3",
+  "Area": "usuk",
+  "Time": "6:16",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10d00a2b892162c476f9e"
+  },
+  "Name": "Let Me Feel",
+  "Genre": "edm",
+  "Poster": "1608584448255-USUK_EDM_Vicetone_NickyRomeo_Let_Me_Feel_1.jpg",
+  "Aud": "1608584448269-USUK_EDM_Vicetone_NickyRomeo_Let_Me_Feel.mp3",
+  "Area": "usuk",
+  "Time": "3:23",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10d5ea2b892162c476f9f"
+  },
+  "Name": "What I've Waiting For",
+  "Genre": "edm",
+  "Poster": "1608584542154-USUK_EDM_Vicetone_What_Ive_Waiting_For_1.jpg",
+  "Aud": "1608584542157-USUK_EDM_Vicetone_What_Ive_Waiting_For.mp3",
+  "Area": "usuk",
+  "Time": "3:41",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10dd1a2b892162c476fa0"
+  },
+  "Name": "Do For Love",
+  "Genre": "edm",
+  "Poster": "1608584657269-VN_EDM_Bray_Amee_Do_For_Love_1.jpg",
+  "Aud": "1608584657326-VN_EDM_Bray_Amee_Do_For_Love.mp3",
+  "Area": "vpop",
+  "Time": "3:09",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10e21a2b892162c476fa1"
+  },
+  "Name": "Brayniacs",
+  "Genre": "edm",
+  "Poster": "1608584737267-VN_EDM_BRay_Masew_Brayniacs_1.jpg",
+  "Aud": "1608584737552-VN_EDM_BRay_Masew_Brayniacs.mp3",
+  "Area": "vpop",
+  "Time": "3:22",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe10e7ba2b892162c476fa2"
+  },
+  "Name": "Ve",
+  "Genre": "edm",
+  "Poster": "1608584827109-VN_EDM_Masew_Lizay_Ve_1.jpg",
+  "Aud": "1608584827151-VN_EDM_Masew_Lizay_Ve.mp3",
+  "Area": "vpop",
+  "Time": "2:27",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe113b8a2b892162c476fa3"
+  },
+  "Name": "Tuy Am",
+  "Genre": "edm",
+  "Poster": "1608586168037-VN_EDM_Masew_Xesi_Tuy_Am_1.jpg",
+  "Aud": "1608586168085-VN_EDM_Masew_Xesi_Tuy_Am.mp3",
+  "Area": "vpop",
+  "Time": "3:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe11418a2b892162c476fa4"
+  },
+  "Name": "Em Moi La Nguoi Yeu Anh",
+  "Genre": "edm",
+  "Poster": "1608586264418-VN_EDM_Min_Em_Moi_La_Nguoi_Yeu_Anh_1.jpg",
+  "Aud": "1608586264433-VN_EDM_Min_Em_Moi_La_Nguoi_Yeu_Anh.mp3",
+  "Area": "usuk",
+  "Time": "3:02",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe11455a2b892162c476fa5"
+  },
+  "Name": "Ghen",
+  "Genre": "edm",
+  "Poster": "1608586324845-VN_EDM_Min_Erik_Ghen_1.jpg",
+  "Aud": "1608586324860-VN_EDM_Min_Erik_Ghen.mp3",
+  "Area": "vpop",
+  "Time": "4:07",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe114a5a2b892162c476fa6"
+  },
+  "Name": "Yeu",
+  "Genre": "edm",
+  "Poster": "1608586404902-VN_EDM_Min_Yeu_1.jpg",
+  "Aud": "1608586404906-VN_EDM_Min_Yeu.mp3",
+  "Area": "vpop",
+  "Time": "4:26",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1154789da612a8c79885a"
+  },
+  "Name": "Mot Buoc Yeu Van Dam Dau (Remix)",
+  "Genre": "edm",
+  "Poster": "1608586566925-VN_EDM_MrSiro_Mot_Buoc_Yeu_Van_Dam_Dau_Remix_1.jpg",
+  "Aud": "1608586566933-VN_EDM_MrSiro_Mot_Buoc_Yeu_Van_Dam_Dau_Remix.mp3",
+  "Area": "vpop",
+  "Time": "6:01",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1158489da612a8c79885b"
+  },
+  "Name": "Thai Binh Mo Hoi Roi",
+  "Genre": "edm",
+  "Poster": "1608586627666-VN_EDM_SonTungMTP_Thai_Binh_Mo_Hoi_Roi_1.jpg",
+  "Aud": "1608586627672-VN_EDM_SonTungMTP_Thai_Binh_Mo_Hoi_Roi.mp3",
+  "Area": "vpop",
+  "Time": "5:16",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe115b389da612a8c79885c"
+  },
+  "Name": "Say You Do (Remix)",
+  "Genre": "edm",
+  "Poster": "1608586675339-VN_EDM_TienTien_Say_You_Do_Remix_1.jpg",
+  "Aud": "1608586675344-VN_EDM_TienTien_Say_You_Do_Remix.mp3",
+  "Area": "vpop",
+  "Time": "4:03",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe115e089da612a8c79885d"
+  },
+  "Name": "Ve Voi Em Di (Remix)",
+  "Genre": "edm",
+  "Poster": "1608586720276-VN_EDM_TienTien_Ve_Voi_Em_Di_Remix_1.jpg",
+  "Aud": "1608586720279-VN_EDM_TienTien_Ve_Voi_Em_Di_Remix.mp3",
+  "Area": "vpop",
+  "Time": "3:25",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1899280638e32a029d831"
+  },
+  "Name": "Lose Control",
+  "Genre": "pop",
+  "Poster": "1608616338454-CHINA_Pop_Lay_Lose_Control_1.jpg",
+  "Aud": "1608616338459-CHINA_Pop_Lay_Lose_Control.mp3",
+  "Area": "cpop",
+  "Time": "3:28",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe189c280638e32a029d832"
+  },
+  "Name": "MYM",
+  "Genre": "pop",
+  "Poster": "1608616386533-CHINA_Pop_Lay_MYM_1.jpg",
+  "Aud": "1608616386536-CHINA_Pop_Lay_MYM.mp3",
+  "Area": "cpop",
+  "Time": "4:03",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18a3680638e32a029d833"
+  },
+  "Name": "What U Need",
+  "Genre": "pop",
+  "Poster": "1608616502002-CHINA_Pop_Lay_What_U_Need_1.jpg",
+  "Aud": "1608616502004-CHINA_Pop_Lay_What_U_Need.mp3",
+  "Area": "cpop",
+  "Time": "3:55",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18a6380638e32a029d834"
+  },
+  "Name": "Bai Tuong",
+  "Genre": "pop",
+  "Poster": "1608616547273-CHINA_Pop_NhamNhien_Bai_Tuong_1.jpg",
+  "Aud": "1608616547275-CHINA_Pop_NhamNhien_Bai_Tuong.mp3",
+  "Area": "cpop",
+  "Time": "4:44",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18ae380638e32a029d835"
+  },
+  "Name": "Dao Khong Nguoi",
+  "Genre": "pop",
+  "Poster": "1608616675024-CHINA_Pop_NhamNhien_Dao_Khong_Nguoi_1.jpg",
+  "Aud": "1608616675026-CHINA_Pop_NhamNhien_Đao_Khong_Nguoi.mp3",
+  "Area": "cpop",
+  "Time": "4:45",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18b4880638e32a029d836"
+  },
+  "Name": "Nguoi Ke Nhiem",
+  "Genre": "pop",
+  "Poster": "1608616776008-CHINA_Pop_NhamNhien_Nguoi_Ke_Nhiem_1.jpg",
+  "Aud": "1608616776009-CHINA_Pop_NhamNhien_Nguoi_Ke_Nhiem.mp3",
+  "Area": "cpop",
+  "Time": "4:02",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18b7380638e32a029d837"
+  },
+  "Name": "Phi Dieu Va Ve Sau",
+  "Genre": "pop",
+  "Poster": "1608616818613-CHINA_Pop_NhamNhien_Phi_Dieu_Va_Ve_Sau_1.jpg",
+  "Aud": "1608616818885-CHINA_Pop_NhamNhien_Phi_Dieu_Va_Ve_Sau.mp3",
+  "Area": "cpop",
+  "Time": "4:56",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18c2180638e32a029d839"
+  },
+  "Name": "Tung Yeu Mot Nguoi",
+  "Genre": "pop",
+  "Poster": "1608616993185-CHINA_Pop_NhamNhien_Tung_Yeu_Mot_Nguoi_1.jpg",
+  "Aud": "1608616993189-CHINA_Pop_NhamNhien_Tung_Yeu_Mot_Nguoi.mp3",
+  "Area": "cpop",
+  "Time": "4:01",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18c5980638e32a029d83a"
+  },
+  "Name": "As If It's Your Last",
+  "Genre": "pop",
+  "Poster": "1608617049023-KOREA_Pop_BlackPink_As_If_Its_Your_Last_1.jpg",
+  "Aud": "1608617049045-KOREA_Pop_BlackPink_As_If_Its_Your_Last.mp3",
+  "Area": "kpop",
+  "Time": "3:32",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18c8980638e32a029d83b"
+  },
+  "Name": "Ddu Du Ddu Du",
+  "Genre": "pop",
+  "Poster": "1608617097836-KOREA_Pop_BlackPink_Ddu_Du_Ddu_Du_1.jpg",
+  "Aud": "1608617097842-KOREA_Pop_BlackPink_Ddu_Du_Ddu_Du.mp3",
+  "Area": "kpop",
+  "Time": "3:29",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18cdd80638e32a029d83c"
+  },
+  "Name": "Playing With Fire",
+  "Genre": "pop",
+  "Poster": "1608617181362-KOREA_Pop_BlackPink_Playing_With_Fire_1.jpg",
+  "Aud": "1608617181392-KOREA_Pop_BlackPink_Playing_With_Fire.mp3",
+  "Area": "kpop",
+  "Time": "3:15",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18d1380638e32a029d83d"
+  },
+  "Name": "Play",
+  "Genre": "pop",
+  "Poster": "1608617235723-KOREA_Pop_ChangMo_ChungHa_Play_1.jpg",
+  "Aud": "1608617235737-KOREA_Pop_ChangMo_ChungHa_Play.mp3",
+  "Area": "kpop",
+  "Time": "3:19",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18d4d80638e32a029d83e"
+  },
+  "Name": "D Day 2016",
+  "Genre": "pop",
+  "Poster": "1608617293044-KOREA_Pop_ChangMo_D_Day_2016_1.jpg",
+  "Aud": "1608617293048-KOREA_Pop_ChangMo_D_Day_2016.mp3",
+  "Area": "kpop",
+  "Time": "4:03",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18d8780638e32a029d83f"
+  },
+  "Name": "Back To You",
+  "Genre": "pop",
+  "Poster": "1608617351497-KOREA_Pop_ChangMo_Yumdda_Back_To_You_1.jpg",
+  "Aud": "1608617351502-KOREA_Pop_ChangMo_Yumdda_Back_To_You.mp3",
+  "Area": "kpop",
+  "Time": "2:44",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18db680638e32a029d840"
+  },
+  "Name": "End Of Love",
+  "Genre": "pop",
+  "Poster": "1608617398079-KOREA_Pop_KimNaYoung_End_Of_Love_1.jpg",
+  "Aud": "1608617398082-KOREA_Pop_KimNaYoung_End_Of_Love.mp3",
+  "Area": "kpop",
+  "Time": "3:56",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18df86c026f149cc6edfc"
+  },
+  "Name": "Once Again",
+  "Genre": "pop",
+  "Poster": "1608617464797-KOREA_Pop_KimNaYoung_MadClowns_Once_Again_1.jpg",
+  "Aud": "1608617464802-KOREA_Pop_KimNaYoung_MadClowns_Once_Again.mp3",
+  "Area": "kpop",
+  "Time": "3:55",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18e216c026f149cc6edfd"
+  },
+  "Name": "Say Goodbye",
+  "Genre": "pop",
+  "Poster": "1608617505291-KOREA_Pop_KimNaYoung_Say_Goodbye_1.jpg",
+  "Aud": "1608617505310-KOREA_Pop_KimNaYoung_Say_Goodbye.mp3",
+  "Area": "kpop",
+  "Time": "4:09",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18e4b6c026f149cc6edfe"
+  },
+  "Name": "Tell Me",
+  "Genre": "pop",
+  "Poster": "1608617547366-KOREA_Pop_KimNaYoung_Tell_Me_1.jpg",
+  "Aud": "1608617547371-KOREA_Pop_KimNaYoung_Tell_Me.mp3",
+  "Area": "kpop",
+  "Time": "3:23",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18e6f6c026f149cc6edff"
+  },
+  "Name": "To Be Honest",
+  "Genre": "pop",
+  "Poster": "1608617582938-KOREA_Pop_KimNaYoung_To_Be_Honest_1.jpg",
+  "Aud": "1608617582941-KOREA_Pop_KimNaYoung_To_Be_Honest.mp3",
+  "Area": "kpop",
+  "Time": "3:20",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18ea46c026f149cc6ee00"
+  },
+  "Name": "34 35",
+  "Genre": "pop",
+  "Poster": "1608617636837-USUK_Pop_Ariana_Grande_34_35_1.jpg",
+  "Aud": "1608617636841-USUK_Pop_Ariana_Grande_34_35.mp3",
+  "Area": "usuk",
+  "Time": "2:53",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18eec6c026f149cc6ee01"
+  },
+  "Name": "Positions",
+  "Genre": "pop",
+  "Poster": "1608617708679-USUK_Pop_ArianaGrande_Positions_1.jpg",
+  "Aud": "1608617708683-USUK_Pop_ArianaGrande_Positions.mp3",
+  "Area": "usuk",
+  "Time": "2:52",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18f196c026f149cc6ee02"
+  },
+  "Name": "POV",
+  "Genre": "pop",
+  "Poster": "1608617753067-USUK_Pop_ArianaGrande_POV_1.jpg",
+  "Aud": "1608617753070-USUK_Pop_ArianaGrande_POV.mp3",
+  "Area": "usuk",
+  "Time": "3:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18f4d6c026f149cc6ee03"
+  },
+  "Name": "Snow In California",
+  "Genre": "pop",
+  "Poster": "1608617805853-USUK_Pop_ArianaGrande_Snow_In_California_1.jpg",
+  "Aud": "1608617805856-USUK_Pop_ArianaGrande_Snow_In_California.mp3",
+  "Area": "usuk",
+  "Time": "3:26",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18fb67baa271a2835677f"
+  },
+  "Name": "Thank U Next",
+  "Genre": "pop",
+  "Poster": "1608617910753-USUK_Pop_ArianaGrande_Thank_U_Next_1.jpg",
+  "Aud": "1608617910761-USUK_Pop_ArianaGrande_Thank_U_Next.mp3",
+  "Area": "usuk",
+  "Time": "3:32",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe18fe67baa271a28356780"
+  },
+  "Name": "Naughty Girl",
+  "Genre": "pop",
+  "Poster": "1608617958284-USUK_Pop_Beyonce_Naughty_Girl_1.jpg",
+  "Aud": "1608617958306-USUK_Pop_Beyonce_Naughty_Girl.mp3",
+  "Area": "usuk",
+  "Time": "3:28",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe190147baa271a28356781"
+  },
+  "Name": "ET",
+  "Genre": "pop",
+  "Poster": "1608618004810-USUK_Pop_KanyeWest_KatyPerry_ET_1.jpg",
+  "Aud": "1608618004813-USUK_Pop_KanyeWest_KatyPerry_ET.mp3",
+  "Area": "usuk",
+  "Time": "3:50",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe190447baa271a28356782"
+  },
+  "Name": "Done For Me",
+  "Genre": "pop",
+  "Poster": "1608618052490-USUK_Pop_Kehlani_CharliePuth_Done_For_Me_1.jpg",
+  "Aud": "1608618052527-USUK_Pop_Kehlani_CharliePuth_Done_For_Me.mp3",
+  "Area": "usuk",
+  "Time": "3:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe190707baa271a28356783"
+  },
+  "Name": "Good Life",
+  "Genre": "pop",
+  "Poster": "1608618096757-USUK_Pop_Kehlani_GEazy_Good_Life_1.jpg",
+  "Aud": "1608618096761-USUK_Pop_Kehlani_GEazy_Good_Life.mp3",
+  "Area": "usuk",
+  "Time": "3:44",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe190ee7baa271a28356784"
+  },
+  "Name": "Chua Bao Gio Me Ke",
+  "Genre": "pop",
+  "Poster": "1608618222746-VN_Pop_Min_Erik_Chua_Bao_Gio_Me_Ke_1.jpg",
+  "Aud": "1608618222749-VN_Pop_Min_Erik_Chua_Bao_Gio_Me_Ke.mp3",
+  "Area": "vpop",
+  "Time": "4:18",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe191187baa271a28356785"
+  },
+  "Name": "Tren Tinh Ban Duoi Tinh Yeu",
+  "Genre": "pop",
+  "Poster": "1608618264716-VN_Pop_Min_Tren_Tinh_Ban_Duoi_Tinh_Yeu_1.jpg",
+  "Aud": "1608618264719-VN_Pop_Min_Tren_Tinh_Ban_Duoi_Tinh_Yeu.mp3",
+  "Area": "vpop",
+  "Time": "3:19",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1914d7baa271a28356786"
+  },
+  "Name": "Cu Chill Thoi",
+  "Genre": "pop",
+  "Poster": "1608618317816-VN_Pop_SuniHaLinh_Cu_Chill_Thoi_1.jpg",
+  "Aud": "1608618317845-VN_Pop_SuniHaLinh_Cu_Chill_Thoi.mp3",
+  "Area": "vpop",
+  "Time": "4:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe191797baa271a28356787"
+  },
+  "Name": "Chuyen Di Cua Thanh Xuan",
+  "Genre": "pop",
+  "Poster": "1608618361000-VN_Pop_SuniHaLinh_Chuyen_Di_Cua_Thanh_Xuan_1.jpg",
+  "Aud": "1608618361004-VN_Pop_SuniHaLinh_Chuyen_Di_Cua_Thanh_Xuan.mp3",
+  "Area": "vpop",
+  "Time": "3:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe191a67baa271a28356788"
+  },
+  "Name": "Em Da Biet",
+  "Genre": "pop",
+  "Poster": "1608618406300-VN_Pop_SuniHaLinh_Em_Da_Biet_1.jpg",
+  "Aud": "1608618406324-VN_Pop_SuniHaLinh_Em_Da_Biet.mp3",
+  "Area": "vpop",
+  "Time": "3:31",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe191c77baa271a28356789"
+  },
+  "Name": "Say Yes",
+  "Genre": "pop",
+  "Poster": "1608618439689-VN_Pop_SuniHaLinh_Say_Yes_1.jpg",
+  "Aud": "1608618439692-VN_Pop_SuniHaLinh_Say_Yes.mp3",
+  "Area": "vpop",
+  "Time": "3:08",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe191eb7baa271a2835678a"
+  },
+  "Name": "Tet Ta Ve Nha",
+  "Genre": "pop",
+  "Poster": "1608618475063-VN_Pop_SuniHaLinh_Will_Tet_Ta_Ve_Nha_1.jpg",
+  "Aud": "1608618475067-VN_Pop_SuniHaLinh_Will_Tet_Ta_Ve_Nha.mp3",
+  "Area": "vpop",
+  "Time": "3:49",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe192147baa271a2835678b"
+  },
+  "Name": "My Everything",
+  "Genre": "pop",
+  "Poster": "1608618516428-VN_Pop_TienTien_My_Everything_1.jpg",
+  "Aud": "1608618516432-VN_Pop_TienTien_My_Everything.mp3",
+  "Area": "vpop",
+  "Time": "3:17",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe192317baa271a2835678c"
+  },
+  "Name": "Say You Do",
+  "Genre": "pop",
+  "Poster": "1608618545574-VN_Pop_TienTien_Say_You_Do_1.jpg",
+  "Aud": "1608618545577-VN_Pop_TienTien_Say_You_Do.mp3",
+  "Area": "vpop",
+  "Time": "3:40",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19264394fd40dbcbb713e"
+  },
+  "Name": "Em Khong The",
+  "Genre": "pop",
+  "Poster": "1608618596029-VN_Pop_TienTien_Touliver_Em_Khong_The_1.jpg",
+  "Aud": "1608618596051-VN_Pop_TienTien_Touliver_Em_Khong_The.mp3",
+  "Area": "vpop",
+  "Time": "4:10",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe192e5394fd40dbcbb713f"
+  },
+  "Name": "Electric Kiss",
+  "Genre": "rb",
+  "Poster": "1608618725740-CHINA_R&B_EXO_Electric_Kiss_1.jpg",
+  "Aud": "1608618725745-CHINA_R&B_EXO_Electric_Kiss.mp3",
+  "Area": "kpop",
+  "Time": "4:29",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1931c394fd40dbcbb7140"
+  },
+  "Name": "Miracles In December",
+  "Genre": "rb",
+  "Poster": "1608618780837-CHINA_R&B_EXO_Miracles_In_December_1.jpg",
+  "Aud": "1608618780841-CHINA_R&B_EXO_Miracles_In_December.mp3",
+  "Area": "kpop",
+  "Time": "4:33",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19362394fd40dbcbb7141"
+  },
+  "Name": "Universe",
+  "Genre": "rb",
+  "Poster": "1608618850294-CHINA_R&B_EXO_Universe_1.jpg",
+  "Aud": "1608618850298-CHINA_R&B_EXO_Universe.mp3",
+  "Area": "kpop",
+  "Time": "4:24",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe193b1394fd40dbcbb7142"
+  },
+  "Name": "East Wind Breaks",
+  "Genre": "rb",
+  "Poster": "1608618929094-CHINA_R&b_JayChou_East_Wind_Breaks_1.jpg",
+  "Aud": "1608618929098-CHINA_R&b_JayChou_East_Wind_Breaks.mp3",
+  "Area": "cpop",
+  "Time": "5:15",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe193cf394fd40dbcbb7143"
+  },
+  "Name": "Ni Hao Ma",
+  "Genre": "pop",
+  "Poster": "1608618959395-CHINA_R&B_JayChou_Ni_Hao_Ma_1.jpg",
+  "Aud": "1608618959398-CHINA_R&B_JayChou_Ni_Hao_Ma.mp3",
+  "Area": "cpop",
+  "Time": "3:40",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe193fd394fd40dbcbb7144"
+  },
+  "Name": "July",
+  "Genre": "rb",
+  "Poster": "1608619005184-CHINA_R&B_KrisWu_July_1.jpg",
+  "Aud": "1608619005311-CHINA_R&B_KrisWu_July.mp3",
+  "Area": "cpop",
+  "Time": "3:07",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1943f394fd40dbcbb7145"
+  },
+  "Name": "Beautiful",
+  "Genre": "rb",
+  "Poster": "1608619071189-KOREA_R&B_Crush_Beautiful_1.jpg",
+  "Aud": "1608619071193-KOREA_R&B_Crush_Beautiful.mp3",
+  "Area": "kpop",
+  "Time": "3:48",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19465394fd40dbcbb7146"
+  },
+  "Name": "Your Dog Loves You",
+  "Genre": "rb",
+  "Poster": "1608619109879-KOREA_R&B_Crush_Colde_Your_Dog_Loves_You_1.jpg",
+  "Aud": "1608619109882-KOREA_R&B_Crush_Colde_Your_Dog_Loves_You.mp3",
+  "Area": "kpop",
+  "Time": "4:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19487394fd40dbcbb7147"
+  },
+  "Name": "Palette",
+  "Genre": "rb",
+  "Poster": "1608619143271-KOREA_R&B_Crush_IU_GD_Palette_1.jpg",
+  "Aud": "1608619143274-KOREA_R&B_Crush_IU_GD_Palette.mp3",
+  "Area": "kpop",
+  "Time": "3:37",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe194b4394fd40dbcbb7148"
+  },
+  "Name": "Nappa",
+  "Genre": "rb",
+  "Poster": "1608619188825-KOREA_R&B_Crush_Nappa_1.jpg",
+  "Aud": "1608619188829-KOREA_R&B_Crush_Nappa.mp3",
+  "Area": "kpop",
+  "Time": "3:14",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19582394fd40dbcbb7149"
+  },
+  "Name": "Bad Hadbit",
+  "Genre": "rb",
+  "Poster": "1608619394447-KOREA_R&B_GSoul_Bad_Habit_.jpg",
+  "Aud": "1608619394451-KOREA_R&B_GSoul_Bad_Habit.mp3",
+  "Area": "kpop",
+  "Time": "3:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe195cb394fd40dbcbb714a"
+  },
+  "Name": "Can't",
+  "Genre": "rb",
+  "Poster": "1608619467668-KOREA_R&B_GSoul_Cant_1.jpg",
+  "Aud": "1608619467671-KOREA_R&B_GSoul_Cant.mp3",
+  "Area": "kpop",
+  "Time": "3:37",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19619394fd40dbcbb714b"
+  },
+  "Name": "All The Way Up",
+  "Genre": "rb",
+  "Poster": "1608619545564-KOREA_R&B_JayPark_All_The_Way_Up_1.jpg",
+  "Aud": "1608619545567-KOREA_R&B_JayPark_All_The_Way_Up.mp3",
+  "Area": "kpop",
+  "Time": "3:43",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1963e394fd40dbcbb714c"
+  },
+  "Name": "Dank",
+  "Genre": "rb",
+  "Poster": "1608619581977-KOREA_R&B_JayPark_Dank_1.jpg",
+  "Aud": "1608619581980-KOREA_R&B_JayPark_Dank.mp3",
+  "Area": "kpop",
+  "Time": "3:18",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1966b394fd40dbcbb714d"
+  },
+  "Name": "Bath",
+  "Genre": "rb",
+  "Poster": "1608619627255-KOREA_R&B_Offonoff_Bath_1.jpg",
+  "Aud": "1608619627260-KOREA_R&B_Offonoff_Bath.mp3",
+  "Area": "kpop",
+  "Time": "4:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19689394fd40dbcbb714e"
+  },
+  "Name": "Dance",
+  "Genre": "rb",
+  "Poster": "1608619657480-KOREA_R&B_Offonoff_Dance_1.jpg",
+  "Aud": "1608619657484-KOREA_R&B_Offonoff_Dance.mp3",
+  "Area": "kpop",
+  "Time": "3:39",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe196bd394fd40dbcbb714f"
+  },
+  "Name": "Cigarette",
+  "Genre": "rb",
+  "Poster": "1608619709368-KOREA_R&B_Offonoff_Tablo_Miso_Cigarette_1.jpg",
+  "Aud": "1608619709408-KOREA_R&B_Offonoff_Tablo_Miso_Cigarette.mp3",
+  "Area": "kpop",
+  "Time": "4:01",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe196f3394fd40dbcbb7150"
+  },
+  "Name": "Ghost Haunted",
+  "Genre": "rb",
+  "Poster": "1608619763229-USUK_R&B_Beyonce_Ghost_Haunted_1.jpg",
+  "Aud": "1608619763232-USUK_R&B_Beyonce_Ghost_Haunted.mp3",
+  "Area": "usuk",
+  "Time": "6:09",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1971b394fd40dbcbb7151"
+  },
+  "Name": "Pretty Hurts",
+  "Genre": "rb",
+  "Poster": "1608619803716-USUK_R&B_Beyonce_Pretty_Hurts_1.jpg",
+  "Aud": "1608619803718-USUK_R&B_Beyonce_Pretty_Hurts.mp3",
+  "Area": "usuk",
+  "Time": "4:17",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1973f394fd40dbcbb7152"
+  },
+  "Name": "Drunk In Love",
+  "Genre": "rb",
+  "Poster": "1608619839387-USUK_R&B_Beyonce_RayZ_Drunk_In_Love_1.jpg",
+  "Aud": "1608619839390-USUK_R&B_Beyonce_RayZ_Drunk_In_Love.mp3",
+  "Area": "usuk",
+  "Time": "5:23",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19769394fd40dbcbb7153"
+  },
+  "Name": "Distraction",
+  "Genre": "rb",
+  "Poster": "1608619881818-USUK_R&B_Kehlani_Distraction_1.jpg",
+  "Aud": "1608619881822-USUK_R&B_Kehlani_Distraction.mp3",
+  "Area": "usuk",
+  "Time": "3:55",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe197a5bf2e9c34945063e2"
+  },
+  "Name": "Gangsta",
+  "Genre": "rb",
+  "Poster": "1608619941479-USUK_R&B_Kehlani_Gangsta_1.jpg",
+  "Aud": "1608619941489-USUK_R&B_Kehlani_Gangsta.mp3",
+  "Area": "usuk",
+  "Time": "2:57",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe197d1bf2e9c34945063e3"
+  },
+  "Name": "Undercover",
+  "Genre": "rb",
+  "Poster": "1608619985079-USUK_R&B_Kehlani_Undercover_1.jpg",
+  "Aud": "1608619985087-USUK_R&B_Kehlani_Undercover.mp3",
+  "Area": "usuk",
+  "Time": "3:03",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19822f0196a0c50464ed0"
+  },
+  "Name": "I Know Him So Well",
+  "Genre": "rb",
+  "Poster": "1608620066166-USUK_R&B_WhitneyHouston_I_Know_Him_So_Well_1.jpg",
+  "Aud": "1608620066171-USUK_R&B_WhitneyHouston_I_Know_Him_So_Well.mp3",
+  "Area": "kpop",
+  "Time": "4:30",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1984ff0196a0c50464ed1"
+  },
+  "Name": "I Will Always Love You",
+  "Genre": "rb",
+  "Poster": "1608620111695-USUK_R&B_WhitneyHouston_I_Will_Always_Love_You_1.jpg",
+  "Aud": "1608620111729-USUK_R&B_WhitneyHouston_I_Will_Always_Love_You.mp3",
+  "Area": "usuk",
+  "Time": "4:32",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1987df0196a0c50464ed2"
+  },
+  "Name": "Love Is A Contact Sport",
+  "Genre": "rb",
+  "Poster": "1608620157744-USUK_R&B_WhitneyHouston_Love_Is_A_Contact_Sport_1.jpg",
+  "Aud": "1608620157747-USUK_R&B_WhitneyHouston_Love_Is_A_Contact_Sport.mp3",
+  "Area": "usuk",
+  "Time": "4:18",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe198aff0196a0c50464ed3"
+  },
+  "Name": "Where Do Broken Hearts Go",
+  "Genre": "rb",
+  "Poster": "1608620207428-USUK_R&B_WhitneyHouston_Where_Do_Broken_Hearts_Go_1.jpg",
+  "Aud": "1608620207435-USUK_R&B_WhitneyHouston_Where_Do_Broken_Hearts_Go.mp3",
+  "Area": "usuk",
+  "Time": "4:39",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe198d9f0196a0c50464ed4"
+  },
+  "Name": "You're Still My Man",
+  "Genre": "rb",
+  "Poster": "1608620249564-USUK_R&B_WhitneyHouston_You_re_Still_My_Man_1.jpg",
+  "Aud": "1608620249567-USUK_R&B_WhitneyHouston_You_re_Still_My_Man.mp3",
+  "Area": "usuk",
+  "Time": "4:19",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19919f0196a0c50464ed5"
+  },
+  "Name": "Ex's Hate Me",
+  "Genre": "rb",
+  "Poster": "1608620312959-VN_R&B_BRay_AMee_ Masew_Exs_Hate_Me_1.jpg",
+  "Aud": "1608620312964-VN_R&B_BRay_AMee_ Masew_Exs_Hate_Me.mp3",
+  "Area": "vpop",
+  "Time": "3:51",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19946f0196a0c50464ed6"
+  },
+  "Name": "Anh Nha O Dau The",
+  "Genre": "rb",
+  "Poster": "1608620357905-VN_R&B_BRay_AMee_Anh_Nha_O_Dau_The_1.jpg",
+  "Aud": "1608620357908-VN_R&B_BRay_AMee_Anh_Nha_O_Dau_The.mp3",
+  "Area": "vpop",
+  "Time": "3:37",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1997ef0196a0c50464ed7"
+  },
+  "Name": "Bang Khuang",
+  "Genre": "rb",
+  "Poster": "1608620414192-VN_R&B_JustaTee_Bang_Khuang_1.jpg",
+  "Aud": "1608620414196-VN_R&B_JustaTee_Bang_Khuang.mp3",
+  "Area": "vpop",
+  "Time": "4:20",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1999df0196a0c50464ed8"
+  },
+  "Name": "Crying Over You",
+  "Genre": "rb",
+  "Poster": "1608620445208-VN_R&B_JustaTee_Binz_Crying_Over_You_1.jpg",
+  "Aud": "1608620445252-VN_R&B_JustaTee_Binz_Crying_Over_You.mp3",
+  "Area": "vpop",
+  "Time": "5:39",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe199c2f0196a0c50464ed9"
+  },
+  "Name": "Con Mua Cuoi",
+  "Genre": "rb",
+  "Poster": "1608620482386-VN_R&B_JustaTee_Con_Mua_Cuoi_1.jpg",
+  "Aud": "1608620482391-VN_R&B_JustaTee_Con_Mua_Cuoi.mp3",
+  "Area": "vpop",
+  "Time": "5:24",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe199e5f0196a0c50464eda"
+  },
+  "Name": "Da Lo Yeu Em Nhieu",
+  "Genre": "rb",
+  "Poster": "1608620517172-VN_R&B_JustaTee_DaLo_Yeu_Em_Nhieu_1.jpg",
+  "Aud": "1608620517185-VN_R&B_JustaTee_DaLo_Yeu_Em_Nhieu.mp3",
+  "Area": "vpop",
+  "Time": "4:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19a0df0196a0c50464edb"
+  },
+  "Name": "Forever Alone",
+  "Genre": "rb",
+  "Poster": "1608620557179-VN_R&B_JustaTee_Forever_Alone_1.jpg",
+  "Aud": "1608620557182-VN_R&B_JustaTee_Forever_Alone.mp3",
+  "Area": "vpop",
+  "Time": "3:58",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19a93f0196a0c50464edc"
+  },
+  "Name": "Love Rain",
+  "Genre": "rb",
+  "Poster": "1608620690937-VN_R&B_Monstar_Love_Rain_1.jpg",
+  "Aud": "1608620690940-VN_R&B_Monstar_Love_Rain.mp3",
+  "Area": "vpop",
+  "Time": "3:51",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19ac5f0196a0c50464edd"
+  },
+  "Name": "Nong Nan Ha Noi",
+  "Genre": "rb",
+  "Poster": "1608620740911-VN_R&B_NguyenDucCuong_Nong_Nan_Ha_Noi_1.jpg",
+  "Aud": "1608620740948-VN_R&B_NguyenDucCuong_Nong_Nan_Ha_Noi.mp3",
+  "Area": "vpop",
+  "Time": "4:26",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19c0a8833332848ced33b"
+  },
+  "Name": "Me Cung",
+  "Genre": "rap",
+  "Poster": "1608621066403-CHINA_Rap_JonyJ_Me_Cung_1.jpg",
+  "Aud": "1608621066406-CHINA_Rap_JonyJ_Me_Cung.mp3",
+  "Area": "cpop",
+  "Time": "3:53",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19c318833332848ced33c"
+  },
+  "Name": "Ngoan Gia",
+  "Genre": "rap",
+  "Poster": "1608621104868-CHINA_Rap_JonyJ_Ngoan_Gia_1.jpg",
+  "Aud": "1608621104905-CHINA_Rap_JonyJ_Ngoan_Gia.mp3",
+  "Area": "cpop",
+  "Time": "2:55",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19c688833332848ced33d"
+  },
+  "Name": "Come Back",
+  "Genre": "rap",
+  "Poster": "1608621160166-CHINA_Rap_LilGhost_Come_Back_1.jpg",
+  "Aud": "1608621160443-CHINA_Rap_LilGhost_Come_Back.mp3",
+  "Area": "cpop",
+  "Time": "4:22",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19c9c8833332848ced33e"
+  },
+  "Name": "Dung Goi Toi La Davinci",
+  "Genre": "rap",
+  "Poster": "1608621211786-CHINA_Rap_LilGhost_Dung_Goi_Toi_La_Da_Vinci_1.jpg",
+  "Aud": "1608621212059-CHINA_Rap_LilGhost_Dung_Goi_Toi_La_Da_Vinci.mp3",
+  "Area": "vpop",
+  "Time": "4:05",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19cce8833332848ced33f"
+  },
+  "Name": "Hac Bach",
+  "Genre": "rap",
+  "Poster": "1608621261840-CHINA_Rap_LilGhost_Hac_Bach_1.jpg",
+  "Aud": "1608621262117-CHINA_Rap_LilGhost_Hac_Bach.mp3",
+  "Area": "cpop",
+  "Time": "2:49",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19cf48833332848ced340"
+  },
+  "Name": "Thuong",
+  "Genre": "rap",
+  "Poster": "1608621300236-CHINA_Rap_LilGhost_Thuong_1.jpg",
+  "Aud": "1608621300271-CHINA_Rap_LilGhost_Thuong.mp3",
+  "Area": "cpop",
+  "Time": "3:47",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19d238833332848ced341"
+  },
+  "Name": "Coupe",
+  "Genre": "rap",
+  "Poster": "1608621347745-CHINA_Rap_RichTheKid_ KrisWu_Coupe_1.jpg",
+  "Aud": "1608621347791-CHINA_Rap_RichTheKid_ KrisWu_Coupe.mp3",
+  "Area": "cpop",
+  "Time": "3:14",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19d528833332848ced342"
+  },
+  "Name": "Hands Up",
+  "Genre": "rap",
+  "Poster": "1608621394129-KOREA_Crush_Loco_Hands_Up_1.jpg",
+  "Aud": "1608621394175-KOREA_Rap_Crush_Loco_Hands_Up.mp3",
+  "Area": "kpop",
+  "Time": "2:40",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19d8e8833332848ced343"
+  },
+  "Name": "Hold Me Tight",
+  "Genre": "rap",
+  "Poster": "1608621454070-KOREA_Rap_Crush_Loco_Hold_Me_Tight_1.jpg",
+  "Aud": "1608621454381-KOREA_Rap_Crush_Loco_Hold_Me_Tight.mp3",
+  "Area": "kpop",
+  "Time": "3:50",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19dd58833332848ced344"
+  },
+  "Name": "Shower Later",
+  "Genre": "rap",
+  "Poster": "1608621525591-KOREA_Rap_Crush_Shower_Later_1.jpg",
+  "Aud": "1608621525595-KOREA_Rap_Crush_Shower_Later.mp3",
+  "Area": "kpop",
+  "Time": "4:02",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19e148833332848ced345"
+  },
+  "Name": "5",
+  "Genre": "rap",
+  "Poster": "1608621587972-KOREA_Rap_TheQuiett_5_Five_1.jpg",
+  "Aud": "1608621588008-KOREA_Rap_TheQuiett_5_Five.mp3",
+  "Area": "kpop",
+  "Time": "3:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19e56609be81e8c300236"
+  },
+  "Name": "It's Goin Down",
+  "Genre": "rap",
+  "Poster": "1608621654743-KOREA_Rap_TheQuiett_Anda_Its_Goin_Down_1.jpg",
+  "Aud": "1608621654753-KOREA_Rap_TheQuiett_Anda_Its_Goin_Down.mp3",
+  "Area": "kpop",
+  "Time": "3:10",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19e87609be81e8c300237"
+  },
+  "Name": "Run Damoim",
+  "Genre": "rap",
+  "Poster": "1608621703232-KOREA_Rap_TheQuiett_Run_Damoim_1.jpg",
+  "Aud": "1608621703270-KOREA_Rap_TheQuiett_Run_Damoim.mp3",
+  "Area": "kpop",
+  "Time": "3:43",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19eb7609be81e8c300238"
+  },
+  "Name": "Mi Casa Es Tu Casa",
+  "Genre": "rap",
+  "Poster": "1608621751120-KOREA_Rap_TheQuiett_SikK__Mi_Casa_Es_Tu_Casa_1.jpg",
+  "Aud": "1608621751148-KOREA_Rap_TheQuiett_SikK__Mi_Casa_Es_Tu_Casa.mp3",
+  "Area": "kpop",
+  "Time": "2:52",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19edf609be81e8c300239"
+  },
+  "Name": "Mercy",
+  "Genre": "rap",
+  "Poster": "1608621791324-USUK_Rap_KanyeWest_BigSean_Mercy_1.jpg",
+  "Aud": "1608621791327-USUK_Rap_KanyeWest_BigSean_Mercy.mp3",
+  "Area": "usuk",
+  "Time": "5:26",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19f35609be81e8c30023a"
+  },
+  "Name": "Father Stretch My Hands",
+  "Genre": "rap",
+  "Poster": "1608621877469-USUK_Rap_KanyeWest_Father_Stretch_My_Hands_1.jpg",
+  "Aud": "1608621877756-USUK_Rap_KanyeWest_Father_Stretch_My_Hands.mp3",
+  "Area": "usuk",
+  "Time": "2:09",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19f70609be81e8c30023b"
+  },
+  "Name": "Champions",
+  "Genre": "rap",
+  "Poster": "1608621936403-USUK_Rap_KanyeWest_GucciMane_Champions_1.jpg",
+  "Aud": "1608621936407-USUK_Rap_KanyeWest_GucciMane_Champions.mp3",
+  "Area": "usuk",
+  "Time": "5:34",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19fa0609be81e8c30023c"
+  },
+  "Name": "At The Door",
+  "Genre": "rap",
+  "Poster": "1608621984507-USUK_Rap_LilPump_At_The_Door_1.jpg",
+  "Aud": "1608621984515-USUK_Rap_LilPump_At_The_Door.mp3",
+  "Area": "usuk",
+  "Time": "2:03",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe19fd3609be81e8c30023d"
+  },
+  "Name": "Drug Addicts",
+  "Genre": "rap",
+  "Poster": "1608622035712-USUK_Rap_LilPump_Drug_Addicts_1.jpg",
+  "Aud": "1608622035753-USUK_Rap_LilPump_Drug_Addicts.mp3",
+  "Area": "usuk",
+  "Time": "2:55",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a008609be81e8c30023e"
+  },
+  "Name": "Esskeetit",
+  "Genre": "rap",
+  "Poster": "1608622088218-USUK_Rap_LilPump_Esskeetit_1.jpg",
+  "Aud": "1608622088226-USUK_Rap_LilPump_Esskeetit.mp3",
+  "Area": "usuk",
+  "Time": "3:01",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a029609be81e8c30023f"
+  },
+  "Name": "I Love It",
+  "Genre": "rap",
+  "Poster": "1608622121417-USUK_Rap_LilPump_KanyeWest_I_Love_It_1.jpg",
+  "Aud": "1608622121463-USUK_Rap_LilPump_KanyeWest_I_Love_It.mp3",
+  "Area": "usuk",
+  "Time": "2:07",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a05a609be81e8c300240"
+  },
+  "Name": "Kept Back",
+  "Genre": "rap",
+  "Poster": "1608622170172-USUK_Rap_LilPump_Kept_Back_1.jpg",
+  "Aud": "1608622170177-USUK_Rap_LilPump_Kept_Back.mp3",
+  "Area": "usuk",
+  "Time": "2:57",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a086609be81e8c300241"
+  },
+  "Name": "Be Like Me",
+  "Genre": "rap",
+  "Poster": "1608622214474-USUK_Rap_LilPump_LilWayne_Be_Like_Me_1.jpg",
+  "Aud": "1608622214501-USUK_Rap_LilPump_LilWayne_Be_Like_Me.mp3",
+  "Area": "usuk",
+  "Time": "4:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a156f71b2b1bcccb1e83"
+  },
+  "Name": "Best Friend",
+  "Genre": "rap",
+  "Poster": "1608622421651-USUK_Rap_RichTheKid_DaBaby_Best_Friend_1.jpg",
+  "Aud": "1608622421654-USUK_Rap_RichTheKid_DaBaby_Best_Friend.mp3",
+  "Area": "usuk",
+  "Time": "3:06",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a185f71b2b1bcccb1e84"
+  },
+  "Name": "Personal Favorite",
+  "Genre": "rap",
+  "Poster": "1608622468907-USUK_Rap_RichTheKid_Personal_Favorite_1.jpg",
+  "Aud": "1608622468910-USUK_Rap_RichTheKid_Personal_Favorite.mp3",
+  "Area": "usuk",
+  "Time": "2:35",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a1fff71b2b1bcccb1e85"
+  },
+  "Name": "Body Language",
+  "Genre": "rap",
+  "Poster": "1608622591418-USUK_Rap_TyDollaIgn_BigSean_Body_Language_1.jpg",
+  "Aud": "1608622591421-USUK_Rap_TyDollaIgn_BigSean_Body_Language.mp3",
+  "Area": "usuk",
+  "Time": "3:44",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a228f71b2b1bcccb1e86"
+  },
+  "Name": "Work From Home",
+  "Genre": "rap",
+  "Poster": "1608622632541-USUK_Rap_TyDollaIgn_FifthHarmony_Work_From_Home_1.jpg",
+  "Aud": "1608622632576-USUK_Rap_TyDollaIgn_FifthHarmony_Work_From_Home.mp3",
+  "Area": "usuk",
+  "Time": "3:36",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a24ff71b2b1bcccb1e87"
+  },
+  "Name": "Lit",
+  "Genre": "rap",
+  "Poster": "1608622671200-USUK_Rap_TyDollaIgn_WizKhalifa_Lit_1.jpg",
+  "Aud": "1608622671210-USUK_Rap_TyDollaIgn_WizKhalifa_Lit.mp3",
+  "Area": "usuk",
+  "Time": "6:21",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a272f71b2b1bcccb1e88"
+  },
+  "Name": "Y Em Sao",
+  "Genre": "rap",
+  "Poster": "1608622706449-VN_Rap_LangLD_KayTran_Y_Em_Sao_1.jpg",
+  "Aud": "1608622706490-VN_Rap_LangLD_KayTran_Y_Em_Sao.mp3",
+  "Area": "vpop",
+  "Time": "2:51",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a2a6f71b2b1bcccb1e89"
+  },
+  "Name": "O Nha Que Moi Len",
+  "Genre": "rap",
+  "Poster": "1608622758341-VN_Rap_LangLD_O_Nha_Que_Moi_Len_1 - Copy.jpg",
+  "Aud": "1608622758347-VN_Rap_LangLD_O_Nha_Que_Moi_Len.mp3",
+  "Area": "vpop",
+  "Time": "4:33",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a2e9f71b2b1bcccb1e8a"
+  },
+  "Name": "OTD For Life",
+  "Genre": "rap",
+  "Poster": "1608622825643-VN_Rap_LangLD_OTD_For_Life_1.jpg",
+  "Aud": "1608622825648-VN_Rap_LangLD_OTD_For_Life.mp3",
+  "Area": "vpop",
+  "Time": "2:42",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a314f71b2b1bcccb1e8b"
+  },
+  "Name": "Anh Chong Quoc Dan Cua Em",
+  "Genre": "rap",
+  "Poster": "1608622868843-VN_Rap_LangLD_Rhymastic_Anh_Chong_Quoc_Dan_Cua_Em_1.jpg",
+  "Aud": "1608622868846-VN_Rap_LangLD_Rhymastic_Anh_Chong_Quoc_Dan_Cua_Em.mp3",
+  "Area": "vpop",
+  "Time": "3:06",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a32ff71b2b1bcccb1e8c"
+  },
+  "Name": "Tinh Ca",
+  "Genre": "rap",
+  "Poster": "1608622895223-VN_Rap_LangLD_Tinh_Ca_1.jpg",
+  "Aud": "1608622895227-VN_Rap_LangLD_Tinh_Ca.mp3",
+  "Area": "vpop",
+  "Time": "3:13",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a361f71b2b1bcccb1e8d"
+  },
+  "Name": "Khi Man Hinh Tat",
+  "Genre": "rap",
+  "Poster": "1608622945439-VN_Rap_Rhymastic_Khi_Man_Hinh_Tat_1.jpg",
+  "Aud": "1608622945475-VN_Rap_Rhymastic_Khi_Man_Hinh_Tat.mp3",
+  "Area": "vpop",
+  "Time": "4:55",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a385f71b2b1bcccb1e8e"
+  },
+  "Name": "Nen Va Hoa",
+  "Genre": "rap",
+  "Poster": "1608622981015-VN_Rap_Rhymastic_Nen_Va_Hoa_1.jpg",
+  "Aud": "1608622981051-VN_Rap_Rhymastic_Nen_Va_Hoa.mp3",
+  "Area": "vpop",
+  "Time": "2:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a3cb51f403168c849187"
+  },
+  "Name": "Yeu 5",
+  "Genre": "rap",
+  "Poster": "1608623050823-VN_Rap_Rhymastic_Yeu_5_1.jpg",
+  "Aud": "1608623050826-VN_Rap_Rhymastic_Yeu_5.mp3",
+  "Area": "vpop",
+  "Time": "4:00",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a3f451f403168c849188"
+  },
+  "Name": "Dem Tan",
+  "Genre": "rap",
+  "Poster": "1608623092019-VN_Rap_Wowy_Dem_Tan_1.jpg",
+  "Aud": "1608623092023-VN_Rap_Wowy_Dem_Tan.mp3",
+  "Area": "vpop",
+  "Time": "2:57",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a42451f403168c849189"
+  },
+  "Name": "Do Tao Lam",
+  "Genre": "rap",
+  "Poster": "1608623140037-VN_Rap_Wowy_Do_Tao_Lam_1.jpg",
+  "Aud": "1608623140041-VN_Rap_Wowy_Do_Tao_Lam.mp3",
+  "Area": "vpop",
+  "Time": "4:04",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a44951f403168c84918a"
+  },
+  "Name": "Thien Dang",
+  "Genre": "rap",
+  "Poster": "1608623177390-VN_Rap_Wowy_JoliPoli_Thien_Dang_1.jpg",
+  "Aud": "1608623177437-VN_Rap_Wowy_JoliPoli_Thien_Dang.mp3",
+  "Area": "vpop",
+  "Time": "3:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a46651f403168c84918b"
+  },
+  "Name": "Buoc Toi",
+  "Genre": "rap",
+  "Poster": "1608623206295-VN_Rap_Wowy_Nah_Buoc_Toi_1.jpg",
+  "Aud": "1608623206300-VN_Rap_Wowy_Nah_Buoc_Toi.mp3",
+  "Area": "vpop",
+  "Time": "4:18",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1a48351f403168c84918c"
+  },
+  "Name": "Emmmmm",
+  "Genre": "rap",
+  "Poster": "1608623235103-VN_Rap_Wowy_NamHuong_Emmmmm_1.jpg",
+  "Aud": "1608623235106-VN_Rap_Wowy_NamHuong_Emmmmm.mp3",
+  "Area": "vpop",
+  "Time": "3:46",
+  "Count": 0,
+  "Likesong": 0,
+  "__v": 0
+}]

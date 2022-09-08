@@ -1,0 +1,776 @@
+[{
+  "_id": {
+    "$oid": "5fe0a70d1660ae3744575017"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0e85955ff8a393079f7bc"
+    },
+    {
+      "$oid": "5fe0efaa55ff8a393079f7cb"
+    }
+  ],
+  "Name": "Adele",
+  "Age": 32,
+  "Ava": "1608558349175-Adele_1.jpg",
+  "Cover": "1608558349179-Adele_2.jpg",
+  "Country": "United Kingdom",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a72c1660ae3744575018"
+  },
+  "Songs": [],
+  "Name": "Alan Walker",
+  "Age": 23,
+  "Ava": "1608558380699-Alan_Walker_1.jpg",
+  "Cover": "1608558380705-Alan_Walker_2.jpg",
+  "Country": "United Kingdom",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a7571660ae3744575019"
+  },
+  "Songs": [],
+  "Name": "Arian Grande",
+  "Age": 27,
+  "Ava": "1608558423252-Ariana_Grande_1.jpg",
+  "Cover": "1608558423265-Ariana_Grande_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a77f1660ae374457501a"
+  },
+  "Songs": [],
+  "Name": "Beyonce",
+  "Age": 39,
+  "Ava": "1608558463014-Beyonce_1.jpg",
+  "Cover": "1608558463082-Beyonce_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a7d41660ae374457501c"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0ed7a55ff8a393079f7c3"
+    }
+  ],
+  "Name": "BLACKPINK",
+  "Age": 4,
+  "Ava": "1608558548670-BLACKPINK_1.jpg",
+  "Cover": "1608558548691-BlACKPINK_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a7f81660ae374457501d"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0ee0655ff8a393079f7c4"
+    },
+    {
+      "$oid": "5fe0ee4855ff8a393079f7c5"
+    },
+    {
+      "$oid": "5fe0ee7955ff8a393079f7c6"
+    },
+    {
+      "$oid": "5fe0eead55ff8a393079f7c7"
+    }
+  ],
+  "Name": "BTS",
+  "Age": 7,
+  "Ava": "1608558584211-BTS_1.jpg",
+  "Cover": "1608558584224-BTS_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a8221660ae374457501e"
+  },
+  "Songs": [],
+  "Name": "Calvin Harris",
+  "Age": 36,
+  "Ava": "1608558626424-Calvin_Harris_1.jpg",
+  "Cover": "1608558626445-Calvin_Harris_2.jpg",
+  "Country": "United Kingdom",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a85a1660ae374457501f"
+  },
+  "Songs": [],
+  "Name": "Crush",
+  "Age": 28,
+  "Ava": "1608558682657-Crush_1.jpg",
+  "Cover": "1608558682676-Crush_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a8881660ae3744575020"
+  },
+  "Songs": [],
+  "Name": "Changmo",
+  "Age": 26,
+  "Ava": "1608558728770-Chang_Mo_1.jpg",
+  "Cover": "1608558728791-Chang_Mo_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0a91f1660ae3744575022"
+  },
+  "Songs": [],
+  "Name": "G.Soul",
+  "Age": 32,
+  "Ava": "1608558879330-G_Soul_1.jpg",
+  "Cover": "1608558879334-G_Soul_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0aa4206b85d078c6a3db5"
+  },
+  "Songs": [],
+  "Name": "Jay Chou",
+  "Age": 41,
+  "Ava": "1608559170140-Jay_Chou_1.jpg",
+  "Cover": "1608559170153-Jay_Chou_2.jpg",
+  "Country": "Taiwan",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0aaab06b85d078c6a3db6"
+  },
+  "Songs": [],
+  "Name": "Jay Park",
+  "Age": 33,
+  "Ava": "1608559275728-JayPark_1.jpg",
+  "Cover": "1608559275752-JayPark_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0aad806b85d078c6a3db7"
+  },
+  "Songs": [],
+  "Name": "Jony J",
+  "Age": 30,
+  "Ava": "1608559320391-JonyJ_1.jpg",
+  "Cover": "1608559320424-JonyJ_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ab4a06b85d078c6a3db9"
+  },
+  "Songs": [],
+  "Name": "JustaTee",
+  "Age": 29,
+  "Ava": "1608559434203-JustaTee_1.jpg",
+  "Cover": "1608559434207-JustaTee_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ab8006b85d078c6a3dba"
+  },
+  "Songs": [],
+  "Name": "Kanye West",
+  "Age": 43,
+  "Ava": "1608559488953-Kanye_West_1.jpg",
+  "Cover": "1608559488992-Kanye_West_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ac3406b85d078c6a3dbc"
+  },
+  "Songs": [],
+  "Name": "Kehlani",
+  "Age": 25,
+  "Ava": "1608559668868-Kehlani_1.jpg",
+  "Cover": "1608559668871-Kehlani_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ac7a06b85d078c6a3dbd"
+  },
+  "Songs": [],
+  "Name": "Kim Na Young",
+  "Age": 28,
+  "Ava": "1608559738759-Kim_Na_Young_1.jpg",
+  "Cover": "1608559738763-Kim_Na_Young_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b51406b85d078c6a3dbe"
+  },
+  "Songs": [],
+  "Name": "Kris Wu",
+  "Age": 30,
+  "Ava": "1608561940942-Kris_Wu_1.jpg",
+  "Cover": "1608561940945-Kris_Wu_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b5cd06b85d078c6a3dbf"
+  },
+  "Songs": [],
+  "Name": "B Ray",
+  "Age": 27,
+  "Ava": "1608562125920-B_Ray_1.jpg",
+  "Cover": "1608562125924-B_Ray_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b61506b85d078c6a3dc0"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0e76d55ff8a393079f7bb"
+    },
+    {
+      "$oid": "5fe0e8de55ff8a393079f7bd"
+    },
+    {
+      "$oid": "5fe0ea5f55ff8a393079f7be"
+    },
+    {
+      "$oid": "5fe0eab055ff8a393079f7bf"
+    },
+    {
+      "$oid": "5fe0eb5f55ff8a393079f7c0"
+    },
+    {
+      "$oid": "5fe0eba355ff8a393079f7c1"
+    },
+    {
+      "$oid": "5fe0ec4355ff8a393079f7c2"
+    }
+  ],
+  "Name": "2AM ",
+  "Age": 12,
+  "Ava": "1608562197043-2AM_1.jpg",
+  "Cover": "1608562197047-2AM_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b68c06b85d078c6a3dc1"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0f6d955ff8a393079f7d5"
+    },
+    {
+      "$oid": "5fe0f71755ff8a393079f7d6"
+    },
+    {
+      "$oid": "5fe0f75a55ff8a393079f7d7"
+    }
+  ],
+  "Name": "Bich Phuong",
+  "Age": 31,
+  "Ava": "1608562316194-Bich_Phuong_1.jpg",
+  "Cover": "1608562316212-Bich_Phuong_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b6e506b85d078c6a3dc2"
+  },
+  "Songs": [],
+  "Name": "EXO",
+  "Age": 9,
+  "Ava": "1608562405702-Exo_1.jpg",
+  "Cover": "1608562405705-Exo_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b74206b85d078c6a3dc3"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0f7b055ff8a393079f7d8"
+    },
+    {
+      "$oid": "5fe0f7d455ff8a393079f7d9"
+    }
+  ],
+  "Name": "ISSAC",
+  "Age": 32,
+  "Ava": "1608562498526-ISSAC_1.jpg",
+  "Cover": "1608562498532-ISSAC_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b7b106b85d078c6a3dc4"
+  },
+  "Songs": [],
+  "Name": "Lang LD",
+  "Age": 22,
+  "Ava": "1608562609483-LangLD_1.jpg",
+  "Cover": "1608562609487-LangLD_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b7ea06b85d078c6a3dc5"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0fded34017430f0b7ecfa"
+    },
+    {
+      "$oid": "5fe0ff6634017430f0b7ecfb"
+    }
+  ],
+  "Name": "Lay",
+  "Age": 29,
+  "Ava": "1608562666166-Lay_1.jpg",
+  "Cover": "1608562666199-Lay_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b81606b85d078c6a3dc6"
+  },
+  "Songs": [],
+  "Name": "Lil Ghost",
+  "Age": 21,
+  "Ava": "1608562710872-Lil_Ghost_1.jpg",
+  "Cover": "1608562710875-Lil_Ghost_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0b86e06b85d078c6a3dc7"
+  },
+  "Songs": [],
+  "Name": "Lil Pump",
+  "Age": 20,
+  "Ava": "1608562798891-Lil_Pump_1.jpg",
+  "Cover": "1608562798908-Lil_Pump_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0bc5406b85d078c6a3dc8"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0f00655ff8a393079f7cc"
+    },
+    {
+      "$oid": "5fe0f04b55ff8a393079f7cd"
+    },
+    {
+      "$oid": "5fe0f09955ff8a393079f7ce"
+    },
+    {
+      "$oid": "5fe0f0c255ff8a393079f7cf"
+    },
+    {
+      "$oid": "5fe0f34a55ff8a393079f7d0"
+    }
+  ],
+  "Name": "Mariah Carey",
+  "Age": 50,
+  "Ava": "1608563796309-Mariah_Carey_1.jpg",
+  "Cover": "1608563796312-Mariah_Carey_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0bd3306b85d078c6a3dc9"
+  },
+  "Songs": [],
+  "Name": "Masew",
+  "Age": 24,
+  "Ava": "1608564019139-Masew_1.jpg",
+  "Cover": "1608564019155-Masew_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0bd8a06b85d078c6a3dca"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0f81355ff8a393079f7da"
+    }
+  ],
+  "Name": "Min",
+  "Age": 32,
+  "Ava": "1608564106744-Min_1.jpg",
+  "Cover": "1608564106765-Min_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0be2706b85d078c6a3dcb"
+  },
+  "Songs": [],
+  "Name": "Monstar",
+  "Age": 4,
+  "Ava": "1608564263240-Monstar_1.jpg",
+  "Cover": "1608564263244-Monstar_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0be8f06b85d078c6a3dcc"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0f84d55ff8a393079f7db"
+    },
+    {
+      "$oid": "5fe0f8a755ff8a393079f7dc"
+    },
+    {
+      "$oid": "5fe0f8d255ff8a393079f7dd"
+    },
+    {
+      "$oid": "5fe0f92f55ff8a393079f7de"
+    },
+    {
+      "$oid": "5fe0f96955ff8a393079f7df"
+    },
+    {
+      "$oid": "5fe0f99455ff8a393079f7e0"
+    },
+    {
+      "$oid": "5fe0f9b955ff8a393079f7e1"
+    },
+    {
+      "$oid": "5fe0fa2c34017430f0b7ecf5"
+    }
+  ],
+  "Name": "Mr Siro",
+  "Age": 38,
+  "Ava": "1608564367122-MrSiro_1.jpg",
+  "Cover": "1608564367139-MrSiro_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0bfda06b85d078c6a3dcd"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0fa9234017430f0b7ecf6"
+    }
+  ],
+  "Name": "Noo Phuoc Thinh",
+  "Age": 32,
+  "Ava": "1608564698592-NooPhuocThinh_1.jpg",
+  "Cover": "1608564698604-NooPhuocThinh_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c0a506b85d078c6a3dce"
+  },
+  "Songs": [],
+  "Name": "Nguyen Duc Cuong",
+  "Age": 38,
+  "Ava": "1608564901345-NguyenDucCuong_1.jpg",
+  "Cover": "1608564901348-NguyenDucCuong_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c23006b85d078c6a3dcf"
+  },
+  "Songs": [],
+  "Name": "Nham Nhien",
+  "Age": 31,
+  "Ava": "1608565296793-Nham_Nhien_1.jpg",
+  "Cover": "1608565296810-Nham_Nhien_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c27606b85d078c6a3dd0"
+  },
+  "Songs": [],
+  "Name": "Offonoff",
+  "Age": 4,
+  "Ava": "1608565366353-Offonoff_1.jpg",
+  "Cover": "1608565366356-Offonoff_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c31406b85d078c6a3dd1"
+  },
+  "Songs": [],
+  "Name": "R3HAB",
+  "Age": 34,
+  "Ava": "1608565524674-R3HAB_1.jpg",
+  "Cover": "1608565524677-R3HAB_2.jpg",
+  "Country": "Netherlands",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c57f06b85d078c6a3dd2"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0ffad34017430f0b7ecfc"
+    },
+    {
+      "$oid": "5fe1002f34017430f0b7ecfd"
+    },
+    {
+      "$oid": "5fe1006034017430f0b7ecfe"
+    }
+  ],
+  "Name": "Radi8",
+  "Age": 20,
+  "Ava": "1608566143073-RADI8_1.jpg",
+  "Cover": "1608566143084-RADI8_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c5b606b85d078c6a3dd3"
+  },
+  "Songs": [],
+  "Name": "Rhymastic",
+  "Age": 29,
+  "Ava": "1608566198289-Rhymastic_1.jpg",
+  "Cover": "1608566198294-Rhymastic_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c5f106b85d078c6a3dd4"
+  },
+  "Songs": [],
+  "Name": "Rich the Kid",
+  "Age": 28,
+  "Ava": "1608566257101-RichTheKid_1.jpg",
+  "Cover": "1608566257111-RichTheKid_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c64406b85d078c6a3dd5"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0f40155ff8a393079f7d1"
+    },
+    {
+      "$oid": "5fe0f55655ff8a393079f7d2"
+    },
+    {
+      "$oid": "5fe0f5f355ff8a393079f7d3"
+    },
+    {
+      "$oid": "5fe0f65c55ff8a393079f7d4"
+    }
+  ],
+  "Name": "Selena Gomez",
+  "Age": 28,
+  "Ava": "1608566340964-Selena_Gomez_1.jpg",
+  "Cover": "1608566340969-Selena_Gomez_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c6ad06b85d078c6a3dd6"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0faf034017430f0b7ecf7"
+    },
+    {
+      "$oid": "5fe0fb1b34017430f0b7ecf8"
+    }
+  ],
+  "Name": "Son Tung  M-TP",
+  "Age": 26,
+  "Ava": "1608566445483-SonTungMtp_1.jpg",
+  "Cover": "1608566445487-SonTungMTP_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c6df06b85d078c6a3dd7"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0fbc134017430f0b7ecf9"
+    }
+  ],
+  "Name": "Suni Ha Linh",
+  "Age": 27,
+  "Ava": "1608566495958-Suni_Ha_Linh_1.jpg",
+  "Cover": "1608566495962-Suni_Ha_Linh_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c8d406b85d078c6a3dd8"
+  },
+  "Songs": [
+    {
+      "$oid": "5fe0eef455ff8a393079f7c8"
+    },
+    {
+      "$oid": "5fe0ef3f55ff8a393079f7c9"
+    },
+    {
+      "$oid": "5fe0ef6f55ff8a393079f7ca"
+    }
+  ],
+  "Name": "Tae Yeon",
+  "Age": 31,
+  "Ava": "1608566996637-Tae_Yeon_1.jpg",
+  "Cover": "1608566996639-Tae_Yeon_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0c90706b85d078c6a3dd9"
+  },
+  "Songs": [],
+  "Name": "Tien Tien",
+  "Age": 29,
+  "Ava": "1608567047886-Tien_Tien_1.jpg",
+  "Cover": "1608567047907-Tien_Tien_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ca1006b85d078c6a3dda"
+  },
+  "Songs": [],
+  "Name": "Ty Dollar Ign ",
+  "Age": 38,
+  "Ava": "1608567311680-Ty_Dollar_Ign_1.jpg",
+  "Cover": "1608567311993-Ty_Dollar_Ign_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ca5c06b85d078c6a3ddb"
+  },
+  "Songs": [],
+  "Name": "The Quiett",
+  "Age": 35,
+  "Ava": "1608567388741-TheQuiett_1.jpg",
+  "Cover": "1608567388748-TheQuiett_2.jpg",
+  "Country": "Korea",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0ca8b06b85d078c6a3ddc"
+  },
+  "Songs": [],
+  "Name": "Vicetone",
+  "Age": 8,
+  "Ava": "1608567435868-Vicetone_1.jpg",
+  "Cover": "1608567435871-Vicetone_2.jpg",
+  "Country": "Netherlands",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0cb9f06b85d078c6a3ddd"
+  },
+  "Songs": [],
+  "Name": "Whitney Houston",
+  "Age": 49,
+  "Ava": "1608567711305-WhitneyHouston_1.jpg",
+  "Cover": "1608567711310-WhitneyHoustin_2.jpg",
+  "Country": "USA",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0cbc506b85d078c6a3dde"
+  },
+  "Songs": [],
+  "Name": "Wowy",
+  "Age": 32,
+  "Ava": "1608567749332-Wowy_1.jpg",
+  "Cover": "1608567749336-Wowy_2.jpg",
+  "Country": "Viet Nam",
+  "Likesinger": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1048334017430f0b7ecff"
+  },
+  "Songs": [],
+  "Name": "Studio",
+  "Age": 5,
+  "Ava": "1608582275366-Studio_1.jpg",
+  "Cover": "1608582275386-Studio_2.jpg",
+  "Country": "China",
+  "Likesinger": 0,
+  "__v": 0
+}]

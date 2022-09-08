@@ -1,0 +1,12 @@
+.wrap{
+    display: block;
+    padding: 10px 10px 0 10px;
+    border: 2px solid;
+    margin: 0 10% 0 10%; 
+    background-color: lightyellow;
+}
+
+.body
+{
+    background-color: orange;
+}
